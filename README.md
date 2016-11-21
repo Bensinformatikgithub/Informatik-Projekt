@@ -14,4 +14,7 @@ Hier werden einem die ersten Befehle nähergebracht. Diese werden benutzt um ein
 In diesem Level wird z.B. das Problem mit 'turnLeft' und 'turnRight' wieder aufgregriffen, in dem man nun zum ersten Mal eine Funktion erstellt, welche durch das Ausführen eines Befehls mehrere vorher definierte Befehle ausführt. Man erstellt, um 'turnRight' zu erschaffen, eine Funktion mit dem Namen 'turnRight' die den Befehl 'turnLeft' drei mal beinhaltet. Nun kann man sich mit dem Befehl 'turnRight' nach rechts drehen.
 
 ##Level 4: Functions and Top-Down Design:
-Level 4 vertieft das Arbeiten mit Funktionen, und fügt 'Top-Down Design' dazu. 'Top-Down Design bedeutet, dass man möglichst übersichtlich arbeitet und zuerst die gebrauchenen Funktionen erstellt um sie dann später ein zu setzen.
+Level 4 vertieft das Arbeiten mit Funktionen, und führt das 'Top-Down Design' ein. Das 'Top-Down Design' bedeutet, dass man möglichst übersichtlich arbeitet und zuerst die nötigen Funktionen erstellt um sie dann später ein zu setzen. Dies führt dazu, dass man später den Code besser überblicken und Probleme leichter beseitigen kann.
+
+##Level 5: APIs and Function Parameter
+
