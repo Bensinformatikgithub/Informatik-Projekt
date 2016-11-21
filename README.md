@@ -2,7 +2,7 @@
 Dies ist die Dokumentation für das Informatik Projekt von Johanna und Ben
 
 ##Inhalt:
-  - [Level 1: The Need for Programming Languages][#1]
+  - [Level 1: The Need for Programming Languages] [#1]
   - Level 2: Using Simple Commands
 
 ##Level 1: The Need For Programming Languages:<a name="1"></a>
