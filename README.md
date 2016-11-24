@@ -9,6 +9,7 @@ Dies ist die Dokumentation für das Informatik Projekt von Johanna und Ben
    - [Level 5: APIs and Function Parameter] (#5)
    - [Level 6: Creating Functions with Parameters] (#6) 
    - [Level 7: Looping and Random Numbers] (#7) 
+   - [Level 10: Buttons on the Screen] (#8)
 
 ##Level 1: The Need For Programming Languages: <a name="1"></a>
 Dies ist das erste Kapitel/Level des Kurses. Hier wird einem vermittelt, warum Programmiersprachen wichtig sind und wie sie benutzt werden. Um dies zu tun muss man eine Anleitung schreiben, wie Legosteine miteinander zu verbinden sind. Diese Anleitung ist meist nicht eindeutig, da die normale Sprache auch nicht eindeutug ist. Im Gegensatz dazu muss die Programmiersprache eindeutig sein, damit der Computer (Hier der "Partner") die Befehle richtig ausführen kann und die Legosteine richtig verbunden werden, bzw. das Programm funktioniert.
@@ -39,4 +40,6 @@ Hier wird einem nun die Möglichkeit gegeben, diese Parameter auch in Funktionen
 Als Neuigkeit werden in diesem Level Loops (Wiederholungen) und zufällige Parameter eingeführt. Loops sind ein Programmierkonstrukt, welches eine Gruppe von Befehlen wiederholt. Der Loop "for (var i=0; i< (number); i++)" ermöglicht eine beliebige Wiederholung von Befehlen, diese kann man in dem Feld "(number)" regulieren. Die Befehle, die ausgefürht werden sollen, könne einfach eingefügt werden. 
 
 ![Hier ein Bild zur Veranschaulichung] (https://github.com/Bensinformatikgithub/Informatik-Projekt/blob/master/asdfghjk.PNG?raw=true "Beispiel Bild")
+
+##Level 10: Buttons on the Screen:  <a name="8"></a>
 
