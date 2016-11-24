@@ -22,4 +22,4 @@ API's also Application Programming Interfaces sind in Wege um deine Befehle bess
 
 ##Level 6: Creating Functions with Parameters:
 Hier wird einem nun die Möglichkeit gegeben, diese Parameter auch in Funktionen zu benutzen. wenn man jetzt also eine Funktion namens 
-![hIER EIN bILD ZUR vERANSCHAULICHUNG](/Bensinformatikgithub/Informatik-Projekt/blob/master/Funktion mit Parametern.PNG "Optionaler Titel")
+![Hier ein Bild zur Veranschaulichung](https://github.com/Bensinformatikgithub/Informatik-Projekt/blob/master/Funktion%20mit%20Parametern.PNG?raw=true "BeispielBild")
