@@ -2,7 +2,7 @@
 Dies ist die Dokumentation für das Informatik Projekt von Johanna und Ben
 
 ##Inhalt:
-  - (Level 1: The Need for Programming Languages)[#1]
+  [- Level 1: The Need for Programming Languages](#1)
   - Level 2: Using Simple Commands
 
 ##Level 1: The Need For Programming Languages: <a name="1"></a>
@@ -25,3 +25,7 @@ Hier wird einem nun die Möglichkeit gegeben, diese Parameter auch in Funktionen
 
 
 ![Hier ein Bild zur Veranschaulichung](https://github.com/Bensinformatikgithub/Informatik-Projekt/blob/master/Funktion%20mit%20Parametern.PNG?raw=true "BeispielBild")
+
+##Level 7: Looping and Random Numbers:
+
+
