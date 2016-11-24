@@ -21,6 +21,8 @@ Hier werden einem die ersten Befehle nähergebracht. Diese werden benutzt um ein
 ##Level 3: Funktionen erstellen: <a name="3"></a>
 In diesem Level wird z.B. das Problem mit 'turnLeft' und 'turnRight' wieder aufgregriffen, in dem man nun zum ersten Mal eine Funktion erstellt, welche durch das Ausführen eines Befehls mehrere vorher definierte Befehle ausführt. Man erstellt, um 'turnRight' zu erschaffen, eine Funktion mit dem Namen 'turnRight' die den Befehl 'turnLeft' drei mal beinhaltet. Nun kann man sich mit dem Befehl 'turnRight' nach rechts drehen.
 
+![Beispiel Funktion 'turnRight'] (https://github.com/Bensinformatikgithub/Informatik-Projekt/blob/master/Turn%20Right.PNG?raw=true "Beispiel Bild")
+
 ##Level 4: Functions and Top-Down Design: <a name="4"></a>
 Level 4 vertieft das Arbeiten mit Funktionen, und führt das 'Top-Down Design' ein. Das 'Top-Down Design' bedeutet, dass man möglichst übersichtlich arbeitet und zuerst die nötigen Funktionen erstellt um sie dann später ein zu setzen. Dies führt dazu, dass man später den Code besser überblicken und Probleme leichter beseitigen kann.
 
