@@ -17,5 +17,8 @@ In diesem Level wird z.B. das Problem mit 'turnLeft' und 'turnRight' wieder aufg
 ##Level 4: Functions and Top-Down Design:
 Level 4 vertieft das Arbeiten mit Funktionen, und führt das 'Top-Down Design' ein. Das 'Top-Down Design' bedeutet, dass man möglichst übersichtlich arbeitet und zuerst die nötigen Funktionen erstellt um sie dann später ein zu setzen. Dies führt dazu, dass man später den Code besser überblicken und Probleme leichter beseitigen kann.
 
-##Level 5: APIs and Function Parameter
+##Level 5: APIs and Function Parameter:
+API's also Application Programming Interfaces sind in Wege um deine Befehle besser zu kontrollieren. Wenn man also den Befehl "moveForward()" ausführt, bewegt der zeiger sich um 25 pixel nach vorne. Dieser Wert wird von der Programmiersprache vorher festgelegt. Man kann nun in den Klammern einen Wert eingeben. Dieser Wert bestimmt in diesem Fall, um wie viele Pixel sich der Zeiger nach vorne bewegt. Wenn man also den Befehl "moveForward (60)" ausführt, bewegt sich der Zeiger um 60 Pixel nach vorne. Das gleiche funktioniert auch mit "turnLeft ()" hier ist der Parameter die Anzahl an Grad, um die sich der Zeiger nach links dreht. Diese Parameter werden außerdem auch in dem Befehl "penColour", bzw jetzt "penRGB" eingeführt. So kann man die Farbe des Benutzten Pinsel (Pen) verändern.
 
+##Level 6: Creating Functions with Parameters:
+Hier wird einem nun die Möglichkeit gegeben, diese Parameter auch in Funktionen zu benutzen. wenn man jetzt also eine Funktion namens 
