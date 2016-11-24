@@ -2,13 +2,13 @@
 Dies ist die Dokumentation für das Informatik Projekt von Johanna und Ben
 
 ##Inhalt:
-  [- Level 1: The Need for Programming Languages](#1)
-  [- Level 2: Using Simple Commands] (#2)
-  [- Level 3: Funktionen erstellen] (#3)
-  [- Level 4: Functions and Top-Down Design] (#4)
-  [- Level 5: APIs and Function Parameter] (#5)
-  [- Level 6: Creating Functions with Parameters] (#6) 
-  [- Level 7: Looping and Random Numbers] (#7) 
+   - [Level 1: The Need for Programming Languages](#1)
+   - [Level 2: Using Simple Commands] (#2)
+   - [Level 3: Funktionen erstellen] (#3)
+   - [Level 4: Functions and Top-Down Design] (#4)
+   - [Level 5: APIs and Function Parameter] (#5)
+   - [Level 6: Creating Functions with Parameters] (#6) 
+   - [Level 7: Looping and Random Numbers] (#7) 
 
 ##Level 1: The Need For Programming Languages: <a name="1"></a>
 Dies ist das erste Kapitel/Level des Kurses. Hier wird einem vermittelt, warum Programmiersprachen wichtig sind und wie sie benutzt werden. Um dies zu tun muss man eine Anleitung schreiben, wie Legosteine miteinander zu verbinden sind. Diese Anleitung ist meist nicht eindeutig, da die normale Sprache auch nicht eindeutug ist. Im Gegensatz dazu muss die Programmiersprache eindeutig sein, damit der Computer (Hier der "Partner") die Befehle richtig ausführen kann und die Legosteine richtig verbunden werden, bzw. das Programm funktioniert.
