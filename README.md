@@ -34,4 +34,5 @@ Hier wird einem nun die Möglichkeit gegeben, diese Parameter auch in Funktionen
 ##Level 7: Looping and Random Numbers: <a name="7"></a>
 Als Neuigkeit werden in diesem Level Loops (Wiederholungen) und zufällige Parameter eingeführt. Loops sind ein Programmierkonstrukt, welches eine Gruppe von Befehlen wiederholt. Der Loop "for (var i=0; i< (number); i++)" ermöglicht eine beliebige Wiederholung von Befehlen, diese kann man in dem Feld "(number)" regulieren. Die Befehle, die ausgefürht werden sollen, könne einfach eingefügt werden. 
 
+![Hier ein Bild zur Veranschaulichung] (https://github.com/Bensinformatikgithub/Informatik-Projekt/blob/master/asdfghjk.PNG?raw=true "Beispiel Bild")
 
